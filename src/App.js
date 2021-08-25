@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import samplePPK from "./samplePPK";
 
 function App() {
+  samplePPK();
   return (
     <div className="App">
       <header className="App-header">
